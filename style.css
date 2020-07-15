@@ -1,0 +1,33 @@
+body{
+	margin: 0px
+	padding:40px;
+}
+img{
+	display: none;
+}
+header {
+
+background: #c1c0c0;
+}
+header h1{
+
+text-align: center;
+
+text-transform: uppercase;
+
+color: white;
+}
+header nav{
+
+}
+header a{padding-bottom: px;text-decoration: none;background: #eceaea;padding: 5px;padding-bottom: 1px;}
+main{
+
+background: #c3bebe;
+}
+main h2 {
+
+}
+main p{
+	
+}
